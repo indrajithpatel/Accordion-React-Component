@@ -1,0 +1,25 @@
+.accordion__section {
+  border-bottom: 1px solid black;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.accordion__chevron__size {
+  margin-right: 25px;
+  height: 15px;
+  width: 15px;
+}
+.accordion__button {
+  padding: 10px;
+  width: 100%;
+  display: flex;
+}
+.accordion__button:hover {
+  background-color: lightblue;
+}
+.accordion__content {
+  padding: 10px;
+}
+.accordion__text {
+  text-align: center;
+}
